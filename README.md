@@ -11,7 +11,7 @@ Other branches: Each branch corresponds to a different lab exercise.
 
 # Labs List
 
-LAB 0: oop-intro-classification-system branch.
+1. LAB 0: oop-intro-classification-system branch.
 Introduces the fundamentals of object-oriented programming, including classes, standard libraries, and external libraries.
-LAB 1: oop-intermediate-tasks branch.
+2. LAB 1: oop-intermediate-tasks branch.
 Building confidence with designing classes, creating diverse objects, exploring modules and packages, and continuing mastering Git essentials.
