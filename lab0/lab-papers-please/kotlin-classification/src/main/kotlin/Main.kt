@@ -7,7 +7,7 @@ import java.io.File
 
 fun main() {
   val objectMapper = jacksonObjectMapper()
-  val input = objectMapper.readTree(File("src/main/resources/test-input.json"))
+  val input = objectMapper.readTree(File("lab0/lab-papers-please/kotlin-classification/src/main/resources/test-input.json"))
   val data = input["data"]
 
   val universes = buildList {
